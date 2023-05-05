@@ -1,5 +1,5 @@
 {
-    "name": " tangle-media/quickbooks-php",
+    "name": "tangle-media/quickbooks-php",
     "type": "library",
     "description": "QuickBooks DevKit with support for Intuit Anywhere, Intuit Partner Platform, Web Connector, QuickBooks Merchant Services, and more.",
     "keywords": [
